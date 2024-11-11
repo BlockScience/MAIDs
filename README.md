@@ -8,6 +8,5 @@ This is work-in-progress code, exploring connections between the MAIDs (Multi-Ag
 
 ## Future Work
 
-* Describe current work.
-* Expand current work. 
+More will likely be added here, as the work both expands and coalesces in terms of available information. 
 
